@@ -134,13 +134,13 @@ button:hover{
 
   figure img{
     height: 100%;
-    max-width: 300px;
+    max-width: 280px;
     border-top-right-radius: 0;
     border-bottom-left-radius: 10px;
   }
 
   main{
-    max-width: 300px;
+    max-width: 280px;
     height: 405px;
     border-top-right-radius: 10px;
     border-bottom-left-radius: 0;
